@@ -1,0 +1,12 @@
+# Compiled class files
+build/
+dist/
+*.class
+*.jar
+
+# NetBeans private files
+nbproject/private/
+
+# IDE
+.idea/
+*.iml
