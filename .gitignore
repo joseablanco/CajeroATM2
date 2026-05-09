@@ -10,3 +10,4 @@ nbproject/private/
 # IDE
 .idea/
 *.iml
+.claude/
